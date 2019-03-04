@@ -2,7 +2,7 @@
 
 simple application built to fullfill the requeriments of the   [CNI_Senior_Full_Stack_Challenge.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md) from Condé Nast International.
 
-This is a simple application written in vanilla javascript. The main goal is to show knowlege of Hmtl, css, JavaScript fundamentals.
+This is a simple application written in vanilla javascript. The main goal is to show knowlege of HTML, CSS and JavaScript fundamentals.
 
 ### Installation
 
